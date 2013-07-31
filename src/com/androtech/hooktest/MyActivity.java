@@ -1,4 +1,4 @@
-package com.com.androtech.hooktest;
+package com.androtech.hooktest;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -7,6 +7,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
+import com.com.androtech.hooktest.R;
 
 import java.util.Arrays;
 

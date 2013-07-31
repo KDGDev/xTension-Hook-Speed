@@ -1,4 +1,4 @@
-package com.com.androtech.hooktest;
+package com.androtech.hooktest;
 
 import com.kdgdev.xtension.IXposedHookLoadPackage;
 import com.kdgdev.xtension.XC_MethodHook;
